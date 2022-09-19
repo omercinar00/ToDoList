@@ -41,10 +41,10 @@ h1{
     justify-content: center;
     width: 100%;
 }
-.fa-check{
+.bg{
     color:white;
 }
-.fa-check ~ p{
+.bg p{
     text-decoration: line-through;
     color: white;
 }
